@@ -1,0 +1,123 @@
+h3
+{
+font.size:01px;
+}
+h2
+{
+align:center;
+color:blue;
+font.size:50;
+}
+
+h1
+{
+color:red;
+font.size:40;
+}
+body
+{
+        margin:auto;
+        width:100%;
+        padding:0px;
+        align:center;
+	background-color:white;
+     
+}
+#container
+{
+        margin:auto;
+       
+        padding:10px;
+        width:500;
+        height:350px;
+	background-color:#5f8104;
+}
+#container #head
+{
+        text-decoration:none;
+        margin:14px 0px 0px 70px;
+        font-size:20px;
+        font-weight:bold;
+        padding:8px 0px 0px 25px;
+        color:#700000;
+        background:url('te.jpg');
+        width:240px;
+        height:33px;
+        text-align:center;
+}
+#container #login #user
+{
+        margin:20px 0px 20px 0px;
+        width:150px;
+        height:20px;
+        font-size:15px;
+        text-align:center;
+        color:#800000;
+        border-radius:2em;
+}
+#container #login #pass
+{
+        margin:0px 0px 0px 0px;
+        width:150px;
+        height:20px;
+        font-size:15px;
+        text-align:center;
+        color:#800000;
+        border-radius:2em;
+}
+#container #login #usertype
+{
+        margin:20px 75px 0px 0px;
+        width:150px;
+        height:20px;
+        font-size:15px;
+        text-align:center;
+        color:#800000;
+        border-radius:1em;
+}
+#container #login #login
+{
+margin:20px 75px 0px 0px;
+width:70px;
+height:30px;
+}
+#container #login #reset
+{
+width:70px;
+height:30px;
+}
+#container #login #remember
+{
+margin:20px 10px 0px 0px;
+}
+
+#container #login #rem
+{
+margin:20px 75px 0px 0px;
+         height:20px;
+       font-size:20px;
+}
+#container #hr
+{
+        line-style:dashed;
+        width:70%;
+        align:center;
+}
+#container #forgot
+{
+        text-decoration:none;
+        margin:0px 0px 0px 80px;
+        font-size:20px;
+        color:yellow;
+        align:center;
+}
+
+.logo 
+         {
+
+        height:250;
+        width:350px;
+	    padding:0;
+        float:left;
+        
+}
